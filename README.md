@@ -36,7 +36,8 @@ Here are some projects I built during my SheCodes workshops. While they focus on
 ### ⛈️ Weather Application
 A real-time weather app that fetches live data from an API and displays the current conditions for any city.
 - **Skills:** API Integration, Data Parsing, JavaScript, HTML/CSS
--  🧷 **[View Repository]
+-  🧷 **[View Repository](https://github.com/nkatekoCossa/weatherApp#)**
+### 
 
 
 
