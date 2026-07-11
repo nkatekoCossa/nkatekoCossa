@@ -34,10 +34,13 @@ My goal is to combine my biology knowledge with computational skills to pursue p
 Here are some projects I built during my SheCodes workshops. While they focus on weather data and web development, they demonstrate core skills that transfer directly to bioinformatics, working with APIs, processing data, and building functional tools. I am now applying these same skills to biological data as I transition into bioinformatics.
 
 ### ⛈️ Weather Application
-A real-time weather app that fetches live data from an API and displays the current conditions for any city.
+A real-time weather website that fetches live data from an API and displays the current conditions for any city.
 - **Skills:** API Integration, Data Parsing, JavaScript, HTML/CSS
 -  🧷 **[View Repository](https://github.com/nkatekoCossa/weatherApp#)**
-### 
+### 📚 Poems
+An AI poem generator. It creates poems based on your favourite romance novel.
+- **Skills:** AI, JavaScript, HTML/CSS
+- 🧷 **[View Repository](https://github.com/nkatekoCossa/Giggles-all--34-teeths.git)**
 
 
 
