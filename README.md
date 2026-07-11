@@ -41,6 +41,11 @@ A real-time weather website that fetches live data from an API and displays the 
 An AI poem generator. It creates poems based on your favourite romance novel.
 - **Skills:** AI, JavaScript, HTML/CSS
 - 🧷 **[View Repository](https://github.com/nkatekoCossa/Giggles-all--34-teeths.git)**
+### 🕰️World Clock
+A responsive web application that displays the current time for cities across different time zones. User can select a city from a dropdown menu to view its local date and time, wuth the page updating dynamically and in real-time.
+- **Skills:** HTML/CSS, JavaScript, Moment.js
+- 🧷 **[View Repository](https://github.com/nkatekoCossa/Time-Around-The-World.git)**
+##
 
 
 
