@@ -2,10 +2,6 @@
 ## Hi there, I'm Cindy Nkosi 👋
 -->
 
-<p align="left">
-   <img src="https://www.magnific.com/free-photos-vectors/biological-technology" alt="Profile Views"/>
-<p/>
-
 ## 🧬 About Me
 I'm a recent BSc graduate in **Biological Sciences, majoring in Microbiology and Biochemistry** from North-West University, currently transitioning into the world of **Bioinformatics and Computational Biology**.
 
